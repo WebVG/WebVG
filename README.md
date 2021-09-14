@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WebVG
-- 👀 I’m interested in infrastructure, UX, stratedy and automation !_! 
-- 🌱 I’m currently learning Powershell,infrastrucal engineering
+- 👀 I’m interested in infrastructure, UX, strategy and automation !_! 
+- 🌱 I’m currently learning Powershell, infrastructure and automation
 - 💞️ I’m looking to collaborate on research
 - 📫 How to reach me --> https://www.linkedin.com/in/gvweb91/ 
 
